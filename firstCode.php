@@ -4,3 +4,5 @@
     echo "Iam Anonymous";
     echo "Better Yourself";
     echo "Be the Best Always";
+
+    echo "Self Growth";
