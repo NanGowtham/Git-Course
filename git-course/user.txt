@@ -1,2 +1,4 @@
 add user data to table..
-process the data
+process the data 
+
+create avatar for user..
